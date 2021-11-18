@@ -28,7 +28,7 @@ Data were acquired from The Cancer Genome Atlas (TCGA) program BRCA cohort [http
 
 ## Results at a glance
 
-We can see from our results that logistic regression and random forest work the best in terms of testing accuracies out of our classifiers. Notably, random forest has the highest test accuracy for the Luminal A and Triple Negative groups, which have the clearest distributions in the PCA and UMAP plots earlier on. However, overall logistic regression works the best in its total test accuracy, out-performing other classifiers in the HER-2 enriched group as well as the Luminal B group.
+We can see from our results that **logistic regression and random forest perform the best** in terms of testing accuracies out of our classifiers. Notably, random forest has the highest test accuracy for the Luminal A and Triple Negative groups, which have the clearest distributions in the PCA and UMAP plots earlier on. However, overall logistic regression works the best in its total test accuracy, out-performing other classifiers in the HER-2 enriched group as well as the Luminal B group.
 
 ## Jenea's role 
 I trained the logistic regression dataset, tested the other methods, wrote the Abstract, Related Work, Methods 6.2, Results, 7.1, and the Conclusion & Discussion. 
